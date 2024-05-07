@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+Sahan;New+Beginning+Developer;MASTER+MIND" alt="Typing SVG" /></a>   
 </p> 
 <div align="center">
-  <img src="https://github.com/MrSahanOfcSL.png" alt="Your Profile Picture" width="300" height="300">
+  <img src="https://github.com/MrSahanOfcSL.png" alt="Your Profile Picture" width="300" height="600">
 
 <div align="center">
   <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" alt="Your Profile Picture" width="300" height="300">
