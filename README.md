@@ -21,6 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/maduwa2006)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # I Like 
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,kali,github,blender=15)](https://github.com/maduwa2006)
 
