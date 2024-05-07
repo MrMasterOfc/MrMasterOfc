@@ -11,7 +11,7 @@
   <img src="https://github.com/MrSahanOfcSL.png" alt="Your Profile Picture" width="300" height="300">
 
 <div align="center">
-  <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" alt="Your Profile Picture" width="600" height="300">
+  <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" alt="Your Profile Picture" width="570" height="300">
 
   <br>
 
