@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+Sahan;New+Beginning+Developer;MASTER+MIND" alt="Typing SVG" /></a>   
 </p> 
 <div align="center">
-  <img src="https://github.com/MrSahanOfcSL.png" alt="Your Profile Picture" width="300" height="300">
+  <img src="https://github.com/MrMasterOfc.png" alt="Your Profile Picture" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" alt="Your Profile Picture" width="570" height="300">
@@ -18,12 +18,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 # My currently working Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/maduwa2006)
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/MrMasterOfc)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # I Like 
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,kali,github,blender=15)](https://github.com/maduwa2006)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,kali,github,blender=15)](https://github.com/MrMasterOfc)
 
 ---
 <h3>MASTER'S MUSIC PLAYER</h3>
