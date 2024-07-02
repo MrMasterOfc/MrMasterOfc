@@ -14,7 +14,8 @@
   <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" alt="Your Profile Picture" width="570" height="300">
 
   <br>
-
+<p align="center"><img src="https://profile-counter.glitch.me/{MrMasterOfc}/count.svg" alt="MrMasterOfc :: Visitor's Count" /></p>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 # My currently working Languages and Tools 
