@@ -28,8 +28,7 @@
   
 
   <br>
-<p align="center"><img src="https://profile-counter.glitch.me/{MrMasterOfc}/count.svg" alt="MrMasterOfc :: Visitor's Count" /></p>
-<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## BEST WHATSAPP USER BOT PROJECTS_👨‍💻🔰
