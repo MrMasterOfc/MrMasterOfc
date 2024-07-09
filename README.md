@@ -10,8 +10,22 @@
 <div align="center">
   <img src="https://github.com/MrMasterOfc.png" alt="Your Profile Picture" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" alt="Your Profile Picture" width="570" height="300">
+
+ <a aria-label="MASTER_MD is free to use" href="https://youtube.com/@sahanmaduwantha2006" target="_blank">
+    <img alt="MrMasterOfc Yt" src="https://img.shields.io/youtube/channel/subscribers/UCDB6GZMdSfsmPN9gqxxqnMQ" target="_blank" />
+  </a>
+
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MrMasterOfc}/count.svg" alt="MrMasterOfc :: Visitor's Count" /></p>
+
+<p align="center">
+
+ <a href="https://github.com/MrMasterOfc">
+ <img title="Owner" src="https://img.shields.io/badge/MrMasterOfc-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/MrMasterOfc">
+    <img src="https://img.shields.io/github/followers/MrMasterOfc?style=flat-square&logo=github&color=darkred">
+  </a>
+  
 
   <br>
 <p align="center"><img src="https://profile-counter.glitch.me/{MrMasterOfc}/count.svg" alt="MrMasterOfc :: Visitor's Count" /></p>
