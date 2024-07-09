@@ -48,6 +48,7 @@
   <img src="https://telegra.ph/file/83ae294a17351afb2773d.jpg" alt="Your Profile Picture" width="570" height="300">
 
   <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 # My currently working Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/MrMasterOfc)
