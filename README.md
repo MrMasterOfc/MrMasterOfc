@@ -17,14 +17,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{MrMasterOfc}/count.svg" alt="MrMasterOfc :: Visitor's Count" /></p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-# My currently working Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/MrMasterOfc)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# I Like 
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,kali,github,blender=15)](https://github.com/MrMasterOfc)
 
 ## BEST WHATSAPP USER BOT PROJECTS_👨‍💻🔰
 
@@ -40,6 +32,16 @@
   <img src="https://telegra.ph/file/83ae294a17351afb2773d.jpg" alt="Your Profile Picture" width="570" height="300">
 
   <br>
+  
+# My currently working Languages and Tools 
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/MrMasterOfc)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# I Like 
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,kali,github,blender=15)](https://github.com/MrMasterOfc)
+
+
   
 ---
 <h3>MASTER'S MUSIC PLAYER</h3>
