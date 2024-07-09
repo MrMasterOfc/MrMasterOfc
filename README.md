@@ -73,12 +73,12 @@
   
  <br><br> 
 <p align="center">
-  <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
+  <a href="https://www.youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
   
 <p align="center">
-  <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ">
+    <a href="https://www.youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   </p>
 </p>
