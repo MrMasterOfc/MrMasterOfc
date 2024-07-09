@@ -52,7 +52,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # I Like 
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,kali,github,blender=15)](https://github.com/MrMasterOfc)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,js,heroku,github,html,vercel,py,kali,github,blender=15)](https://github.com/MrMasterOfc)
 
 
   
