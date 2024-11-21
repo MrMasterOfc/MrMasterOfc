@@ -112,7 +112,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ">
+    <a href="https://www.youtube.com/@sahanmaduwantha2006">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   </p>
 </p>
