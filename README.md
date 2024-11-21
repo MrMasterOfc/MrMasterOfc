@@ -49,6 +49,60 @@
 
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+   ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/MrMasterOfc)
+   [![𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")
+                                                          
+  
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃🌱">
+
+
+<!--
+**DAXXTEAM/DAXXTEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/DAXXTEAM/count.svg" />
+</p>
+<!---
+DAXXTEAM/DAXXTEAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
+
+
+
+
+
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrMasterOfc&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXTEAM.me)
+  
+
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMasterOfc&show_icons=true&locale=en&layout=compact" alt="MASTERMIND" /></p>
+
+# Contribution Graph:
+
+
+<p align="center">
+  <a href="https://github.com/MrMasterOfc">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMasterOfc#version3"/>
+  </a>
+</p>
+<a href="https://github.com/MrMasterOfc"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MrMasterOfc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+# Github Streak ☠︎︎
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MrMasterOfc&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrMasterOfc.me)
+
+
+
+# My Status☠︎︎
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMasterOfc&show_icons=true&theme=radical)
   
 # My currently working Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/MrMasterOfc)
