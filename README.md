@@ -54,7 +54,7 @@
    [![𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")
                                                           
   
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃🌱">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃+🌱">
 
 
 <!--
@@ -65,7 +65,7 @@
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/DAXXTEAM/count.svg" />
-</p>
+
 <!---
 DAXXTEAM/DAXXTEAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
