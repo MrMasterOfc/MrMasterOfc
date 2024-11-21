@@ -50,26 +50,11 @@
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-   ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/MrMasterOfc)
-   [![𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")
+[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/MrMasterOfc)
+[![𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")](https://github-stats-alpha.vercel.app/api?username=MrMasterOfc "MASTERMIND")
                                                           
   
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐌𝐀𝐒𝐓𝐄𝐑 𝐌𝐈𝐍𝐃+🌱">
-
-
-<!--
-**DAXXTEAM/DAXXTEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/DAXXTEAM/count.svg" />
-
-<!---
-DAXXTEAM/DAXXTEAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐌𝐀𝐒𝐓𝐄𝐑+𝐌𝐈𝐍𝐃+🌱">
 
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
