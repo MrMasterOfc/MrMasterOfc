@@ -57,11 +57,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐌𝐀𝐒𝐓𝐄𝐑+𝐌𝐈𝐍𝐃+🌱">
 
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
-
-
-
-
 
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrMasterOfc&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXTEAM.me)
   
