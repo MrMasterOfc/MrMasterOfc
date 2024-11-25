@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/github/followers/MrMasterOfc?style=flat-square&logo=github&color=darkred">
   </a>
    <div align="center">
-  <img src="https://github.com/MrMasterOfc/MrMasterOfc/blob/main/Blue%20and%20White%20Background%20Simple%20Resume%20.png" alt="Your Profile Picture" width="570" height="300">
+  <img src="https://github.com/MrMasterOfc/MrMasterOfc/blob/main/Blue%20and%20White%20Background%20Simple%20Resume%20.png" alt="Your Profile Picture" width="570" height="900">
 
 
   <br>
