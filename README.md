@@ -20,7 +20,7 @@
 
 `Click My Official Web Page`
 <p align="center">
-<a href="https://mr-sahan-ofc.vercel.app/"><img src="https://img.shields.io/badge/OFFICIAL-SITE-black" alt="OFFICIAL SITE" width="100"></a>
+<a href="https://sahan-maduwantha.vercel.app/"><img src="https://img.shields.io/badge/OFFICIAL-SITE-black" alt="OFFICIAL SITE" width="100"></a>
 
 <p align="center">
  <a href="https://github.com/MrMasterOfc">
@@ -28,7 +28,9 @@
    <a href="https://github.com/MrMasterOfc">
     <img src="https://img.shields.io/github/followers/MrMasterOfc?style=flat-square&logo=github&color=darkred">
   </a>
-  
+   <div align="center">
+  <img src="https://github.com/MrMasterOfc/MrMasterOfc/blob/main/Blue%20and%20White%20Background%20Simple%20Resume%20.png" alt="Your Profile Picture" width="570" height="300">
+
 
   <br>
 
